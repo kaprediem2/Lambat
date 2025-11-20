@@ -96,5 +96,29 @@
       "date": "1970-01-01",
       "name:": "Banyough's Wool Shoop",
       "details": "Occupied"
+  },
+  {
+      "shape": "3903 -1363 3928 -1351",
+      "owner": "Government of Lambat",
+      "type": "Government",
+      "date": "1970-01-01",
+      "name:": "Tourism Information Center",
+      "details": "In use"
+  },
+  {
+      "shape": "3946 -1373 3946 -1378 3964 -1378 3964 -1377 3967 -1376 3966 -1352 3947 -1352 3946 -1355 3946 -1367",
+      "owner": "Government of Lambat",
+      "type": "Government",
+      "date": "1970-01-01",
+      "name:": "Lambat City Public Cemetery",
+      "details": "In use"
   }
+  {
+      "shape": "3877 -1379 3897 -1353",
+      "owner": "Government of Lambat",
+      "type": "Government",
+      "date": "2022-06-05",
+      "name:": "Pioneer Inn",
+      "details": "In use"
+  },
 ]
