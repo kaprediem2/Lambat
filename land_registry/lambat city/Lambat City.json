@@ -120,5 +120,33 @@
       "date": "2022-06-05",
       "name:": "Pioneer Inn",
       "details": "In use"
-  }
+  },
+  {
+      "shape": "3902 -1390 3917 -1377",
+      "owner": "Banyough, Metriximor",
+      "type": "Residential",
+      "date": "1970-01-01",
+      "details": "Occupied"
+  },
+  {
+      "shape": "3839 -1449 3859 -1435",
+      "owner": "Flameoguide (resident)",
+      "type": "Residential",
+      "date": "1970-01-01",
+      "details": "Occupied"
+  },
+  {
+      "shape": "3838 -1434 3858 -1422",
+      "owner": "Dollv1e",
+      "type": "Residential",
+      "date": "1970-01-01",
+      "details": "Occupied"
+  },
+  {
+      "shape": "3879 -1400 3878 -1395 3872 -1392 3863 -1392 3863 -1400",
+      "owner": "Moondemon19015",
+      "type": "Residential",
+      "date": "1970-01-01",
+      "details": "Occupied"
+  },
 ]
