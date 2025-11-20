@@ -75,7 +75,7 @@
   },
   {
       "shape": "3863 -1437 3878 -1427",
-      "owner": "EvDan",
+      "owner": "EvDan (residient)",
       "type": "Commercial",
       "date": "1970-01-01",
       "name:": "EvDan's shop",
@@ -147,6 +147,29 @@
       "owner": "Moondemon19015",
       "type": "Residential",
       "date": "1970-01-01",
+      "details": "Occupied"
+  },
+  {
+      "shape": "3863 -1376 3871 -1365",
+      "owner": "SamBonusG",
+      "type": "Commercial",
+      "date": "1970-01-01",
+      "name": "Sam's Obby Shop",
+      "details": "Active"
+  },
+  {
+      "shape": "3862 -1385 3871 -1376",
+      "owner": "SamBonusG",
+      "type": "Residential",
+      "date": "1970-01-01",
+      "details": "Occupied"
+  }
+  {
+      "shape": "3863 -1365 3877 -1353",
+      "owner": "Government of Lambat",
+      "type": "Government",
+      "date": "1970-01-01",
+      "name": "A5hf's Heritage House",
       "details": "Occupied"
   }
 ]
